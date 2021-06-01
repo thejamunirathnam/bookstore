@@ -1,0 +1,19 @@
+.books{
+    height: calc(100% - 90px);
+}
+.gridbook{
+
+}
+
+.hoveringg{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+.display{
+    display: flex;
+    flex-direction: row;
+}
+.bookimage{
+    background: #E2E2E2;
+}
