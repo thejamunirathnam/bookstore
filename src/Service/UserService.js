@@ -1,6 +1,6 @@
 import Axios from './AxiosService'
 const axiosservice = new Axios();
-const baseUrl = 'https://backend-bookstore.herokuapp.com/bookstore_app/swagger/api/'
+const baseUrl = 'https://backend-bookstore.herokuapp.com/'
 const config = {
     headers: {
         'Content-Type': 'application/json'

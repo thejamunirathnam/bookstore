@@ -1,5 +1,5 @@
 import React from 'react'
-import DisplayBook from '../components/DisplayBook/DisplayBook'
+import DisplayBook from '../components/DisplayBookandHeader/DisplayBook'
 import Footer from '../components/Footer/Footer'
 import Header from '../components/Header/Header'
 
